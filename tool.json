@@ -1,0 +1,153 @@
+{
+	"react": [
+		{
+            "Name":"React",
+            "URL":"https://zh-hant.reactjs.org/",
+            "Img":"img//science.png",
+            "Class":"alert-primary"
+        },
+        {
+            "Name":"React Bootstrap",
+            "URL":"https://react-bootstrap.github.io/",
+            "Img":"img/bootstrap.png",
+            "Class":"alert-info"
+        },
+        {
+            "Name":"React Slick",
+            "URL":"https://react-slick.neostack.com/",
+            "Img":"img/slideshow.png",
+            "Class":"alert-info"
+        },
+        {
+            "Name":"React-date-range",
+            "URL":"https://hypeserver.github.io/react-date-range/",
+            "Img":"img/calendar.png",
+            "Class":"alert-info"
+        },
+        {
+            "Name":"React-router-dom",
+            "URL":"https://reactrouter.com/en/main",
+            "Img":"img/network.png",
+            "Class":"alert-info"
+        },
+        {
+            "Name":"React-Three",
+            "URL":"https://docs.pmnd.rs/react-three-fiber/getting-started/introduction",
+            "Img":"img/cubes.png",
+            "Class":"alert-info"
+        }
+	],
+	"js/jq": [
+        {
+            "Name":"Three.js",
+            "URL":"https://threejs.org/",
+            "Img":"img/cube.png",
+            "Class":"alert-warning"
+        },
+        {
+            "Name":"sweetalert2",
+            "URL":"https://sweetalert2.github.io/#frameworks-integrations",
+            "Img":"img/message.png",
+            "Class":"alert-warning"
+        },        
+        {
+            "Name":"Slick",
+            "URL":"https://kenwheeler.github.io/slick/",
+            "Img":"img/slideshow (2).png",
+            "Class":"alert-warning"
+        },
+        {
+            "Name":"Swiper",
+            "URL":"https://swiperjs.com/demos",
+            "Img":"img/slideshow (3).png",
+            "Class":"alert-warning"
+        },
+        {
+            "Name":"DataTables",
+            "URL":"https://datatables.net/",
+            "Img":"img/table.png",
+            "Class":"alert-warning"
+        },
+        {
+            "Name":"Date Range Picker",
+            "URL":"https://www.daterangepicker.com/",
+            "Img":"img/dates.png",
+            "Class":"alert-warning"
+        },
+        {
+            "Name":"Air Datepicker",
+            "URL":"https://github.com/t1m0n/air-datepicker",
+            "Img":"img/calendar (2).png",
+            "Class":"alert-warning"
+        },
+        {
+            "Name":"Darkmode.Js",
+            "URL":"https://darkmodejs.learn.uno/",
+            "Img":"img/night-mode.png",
+            "Class":"alert-warning"
+        },
+        {
+            "Name":"Chart.js",
+            "URL":"https://www.chartjs.org/",
+            "Img":"img/analytics.png",
+            "Class":"alert-warning"
+        },
+        {
+            "Name":"Apache ECharts",
+            "URL":"https://echarts.apache.org/en/index.html",
+            "Img":"img/metric.png",
+            "Class":"alert-warning"
+        },
+        {
+            "Name":"jQuery Editable Select",
+            "URL":"https://github.com/indrimuska/jquery-editable-select",
+            "Img":"img/drop-down-menu.png",
+            "Class":"alert-warning"
+        },
+        {
+            "Name":"Lightbox2",
+            "URL":"https://lokeshdhakar.com/projects/lightbox2/",
+            "Img":"img/lightbox.png",
+            "Class":"alert-warning"
+        },
+        {
+            "Name":"Lazy Load",
+            "URL":"https://github.com/tuupola/lazyload",
+            "Img":"img/loading.png",
+            "Class":"alert-warning"
+        },
+        {
+            "Name":"Bootstrap File Input",
+            "URL":"https://plugins.krajee.com/file-input",
+            "Img":"img/open.png",
+            "Class":"alert-warning",
+            "Issut":"https://wijtb.com/archives/431/"
+        },
+        {
+            "Name":"Croppie",
+            "URL":"http://foliotek.github.io/Croppie/",
+            "Img":"img/crop.png",
+            "Class":"alert-warning"
+        }
+	],
+    "css": [
+        {
+            "Name":"Bootestrap",
+            "URL":"https://getbootstrap.com/docs/5.3/getting-started/introduction/",
+            "Img":"img/bootstrap (2).png",
+            "Class":"alert-danger"
+        },
+        {
+            "Name":"Font Awesome",
+            "URL":"https://fontawesome.com/",
+            "Img":"img/a.png",
+            "Class":"alert-danger"
+        },
+        {
+            "Name":"PHP simple router",
+            "URL":"https://phprouter.com/",
+            "Img":"img/router.png",
+            "Class":"alert-danger"
+        }
+    ]
+}
