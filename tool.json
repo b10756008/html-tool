@@ -128,6 +128,12 @@
             "URL":"http://foliotek.github.io/Croppie/",
             "Img":"img/crop.png",
             "Class":"alert-warning"
+        },
+        {
+            "Name":"screenfull",
+            "URL":"https://github.com/sindresorhus/screenfull/tree/v5.2.0",
+            "Img":"img/full-screen.png",
+            "Class":"alert-warning"
         }
 	],
     "css": [
