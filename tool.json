@@ -140,13 +140,13 @@
             "Name":"Bootstrap-select",
             "URL":"https://developer.snapappointments.com/bootstrap-select/",
             "Img":"img/select-tag.png",
-            "Class":"alert-dange"
+            "Class":"alert-danger"
         },
 	{
             "Name":"Bootstrap File Input",
             "URL":"https://plugins.krajee.com/file-input",
             "Img":"img/open.png",
-            "Class":"alert-dange",
+            "Class":"alert-danger",
             "Issut":"https://wijtb.com/archives/431/"
         },
         {
