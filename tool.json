@@ -117,13 +117,6 @@
             "Class":"alert-warning"
         },
         {
-            "Name":"Bootstrap File Input",
-            "URL":"https://plugins.krajee.com/file-input",
-            "Img":"img/open.png",
-            "Class":"alert-warning",
-            "Issut":"https://wijtb.com/archives/431/"
-        },
-        {
             "Name":"Croppie",
             "URL":"http://foliotek.github.io/Croppie/",
             "Img":"img/crop.png",
@@ -142,6 +135,13 @@
             "URL":"https://getbootstrap.com/docs/5.3/getting-started/introduction/",
             "Img":"img/bootstrap (2).png",
             "Class":"alert-danger"
+        },
+	{
+            "Name":"Bootstrap File Input",
+            "URL":"https://plugins.krajee.com/file-input",
+            "Img":"img/open.png",
+            "Class":"alert-dange",
+            "Issut":"https://wijtb.com/archives/431/"
         },
         {
             "Name":"Font Awesome",
