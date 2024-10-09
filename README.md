@@ -20,6 +20,21 @@ Repair Auto Audit
 影像量測
 線幅、面積自動量測
 
+創新商業轉型獎
+
+2.報告內容：
+請參考以下連結，如果選的是年度最佳企業，報告撰寫就是針對得獎的公司各寫一頁的報告，報告內容大概是得獎內容，使用怎樣的科技…….
+Ex:英業達寫一頁、亞東預拌寫一頁、中華電信寫一頁、華南銀行寫一頁、今網智慧科技寫一頁
+
+得獎名單 https://event.hbrtaiwan.com/hbrdx/winners.html
+https://event.hbrtaiwan.com/hbrdx/
+https://event.hbrtaiwan.com/hbrdx/article.html
+https://www.gvm.com.tw/article/115926
+
+
+
+
+
 
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
