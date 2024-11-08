@@ -160,6 +160,12 @@
             "URL":"https://phprouter.com/",
             "Img":"img/router.png",
             "Class":"alert-danger"
+        },
+	{
+            "Name":"phpdesktop",
+            "URL":"https://github.com/cztomczak/phpdesktop",
+            "Img":"img/www.png",
+            "Class":"alert-danger"
         }
     ]
 }
