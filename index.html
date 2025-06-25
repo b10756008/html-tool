@@ -16,17 +16,14 @@
 
 <style>
     html,body{
-        width: 100%;
-    }
-    .div_body{
-        margin: 15px;
+        width: 97vw;
+        margin: 0 auto;
     }
     .item {
-        width: 30vw;
+        width: 100%;
         align-items: center;
         gap: 10px;
         border-radius: 15px;
-        padding: 10px 15px;
         margin-top: 15px;
     }
     .item:hover {
@@ -43,18 +40,19 @@
 </style>
 <body>
     <!-- <p>快捷鍵 rafce</p> -->
-    <div id="body" class="d-flex flex-wrap">
+    <div id="body" class=".container-fluid">
+        <div class="row"></div>
     </div>
 </body>
     <script>
         // 獲取HTML元素
-        const outputDiv = $("#body");
+        const outputDiv = $("#body .row");
 
         // 發送Ajax請求獲取JSON數據
         $.getJSON("tool.json", function(jsonData) {
             // 遍歷JSON數據，並將其逐筆輸出到HTML中
             for (let key in jsonData) {
-                let $div = $(`<div id="${key}" class="div_body"></div>`);
+                let $div = $(`<div id="${key}" class="div_body col-3"></div>`);
                 outputDiv.append($div);
                 
                 jsonData[key].forEach(item => {

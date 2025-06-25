@@ -167,5 +167,32 @@
             "Img":"img/www.png",
             "Class":"alert-danger"
         }
+    ],
+    "iocn":[
+        {
+            "Name":"flaticon",
+            "URL":"https://www.flaticon.com/",
+            "Img":"img/flaticon.png",
+            "Class":"alert-secondary"
+        },
+        {
+            "Name":"freepik",
+            "URL":"https://www.freepik.com/?_gl=1*zl8gv9*test_ga*MTEwODUxOTQ1OS4xNjYzMDI3MzI5*test_ga_523JXC6VL7*MTY2OTcxMTgwOC4zMi4xLjE2Njk3MTE4NDAuMjguMC4w*fp_ga*MTEwODUxOTQ1OS4xNjYzMDI3MzI5*fp_ga_1ZY8468CQB*MTY2OTcxMTgwOC4zMi4xLjE2Njk3MTE4NDAuMjguMC4w",
+            "Img":"img/freepik.png",
+            "Class":"alert-secondary"
+        },
+        {
+            "Name":"lottiefiles",
+            "URL":"https://lottiefiles.com/",
+            "Img":"img/lottiefiles.png",
+            "Class":"alert-secondary"
+        },
+        {
+            "Name":"canva",
+            "URL":"https://www.canva.com/",
+            "Img":"img/canva.png",
+            "Class":"alert-secondary"
+        }
+        
     ]
 }
